@@ -10,4 +10,8 @@
 
     <color name="neon_green">#39FF14</color>
     <color name="neon_purple">#9D00FF</color>
+
+    <color name="neon_blue">#04d9ff</color>
+    <color name="neon_orange">#FF760D</color>
+
 </resources>
