@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+    //test for at home github
     public void findSum(View view) {
         EditText number1ET = findViewById(R.id.editTextNumber);
         EditText number2ET = findViewById(R.id.editTextNumber3);
